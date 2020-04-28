@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Al-Quran App</string>
+    <string name="bahasa_indonesia">Bahasa Indonesia</string>
+    <string name="bahasa_inggris">Bahasa Inggris</string>
+    <string name="menyiapkan_data">Menyiapkan Data</string>
+    <string name="about">About</string>
+</resources>
